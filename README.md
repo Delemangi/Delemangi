@@ -1,4 +1,6 @@
-<img src="https://komarev.com/ghpvc/?username=Delemangi" alt="Delemangi" />
+# Delemangi <img src="https://komarev.com/ghpvc/?username=Delemangi"/>
+
+I make web apps, Discord bots and scrapers mostly.
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
