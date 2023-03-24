@@ -23,5 +23,5 @@ I make web apps, Discord bots and scrapers mostly.
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Delemangi&theme=dark">
+  <img src="https://streak-stats.demolab.com/?user=Delemangi&theme=dark&hide_border=true">
 </div>
