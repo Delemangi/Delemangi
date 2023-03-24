@@ -19,3 +19,7 @@
     <img height=200 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Delemangi&show_icons=true&count_private=true&line_height=28&hide_border=true&card_width=450&include_all_commits=true&role=owner,collaborator&theme=dark&bg_color=000000#gh-dark-mode-only" />
   </a>
 </div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=Delemangi&theme=dark">
+</div>
