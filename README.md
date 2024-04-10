@@ -25,3 +25,9 @@ I fix things which aren't broken.
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=Delemangi&theme=dark&hide_border=true">
 </div>
+
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Delemangi&theme=radical&column=5" />
+  </a>
+</div>
