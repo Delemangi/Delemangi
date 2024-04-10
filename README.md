@@ -31,3 +31,15 @@ I fix things which aren't broken.
     <img src="https://github-profile-trophy.vercel.app/?username=Delemangi&theme=radical&column=5" />
   </a>
 </div>
+
+<div align="center">
+  <a href="https://stats.dooboo.io/en">
+    <img src="https://stats.dooboo.io/api/github-stats-advanced?login=Delemangi" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://stats.dooboo.io/en">
+    <img src="https://stats.dooboo.io/api/github-trophies?login=Delemangi" />
+  </a>
+</div>
