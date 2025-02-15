@@ -1,7 +1,5 @@
 # Delemangi <img src="https://komarev.com/ghpvc/?username=Delemangi"/>
 
-I fix things which aren't broken.
-
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
     <img height=200 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Delemangi&layout=compact&langs_count=10&hide_border=true&role=owner,collaborator&theme=default&hide=jupyter%20notebook#gh-light-mode-only" />
