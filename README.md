@@ -19,25 +19,3 @@
     <img height=200 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Delemangi&show_icons=true&count_private=true&line_height=28&hide_border=true&card_width=450&include_all_commits=true&role=owner,collaborator&theme=dark&bg_color=000000#gh-dark-mode-only" />
   </a>
 </div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Delemangi&theme=dark&hide_border=true">
-</div>
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Delemangi&theme=radical&column=5" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://stats.dooboo.io/en">
-    <img src="https://stats.dooboo.io/api/github-stats-advanced?login=Delemangi" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://stats.dooboo.io/en">
-    <img src="https://stats.dooboo.io/api/github-trophies?login=Delemangi" />
-  </a>
-</div>
